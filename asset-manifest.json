@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infinity-Mart/static/css/main.d10c4c75.css",
+    "main.js": "/Infinity-Mart/static/js/main.09129035.js",
+    "index.html": "/Infinity-Mart/index.html",
+    "main.d10c4c75.css.map": "/Infinity-Mart/static/css/main.d10c4c75.css.map",
+    "main.09129035.js.map": "/Infinity-Mart/static/js/main.09129035.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10c4c75.css",
+    "static/js/main.09129035.js"
+  ]
+}
